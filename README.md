@@ -8,9 +8,10 @@ The program will ask the user to make a guess of the number of files in the curr
 **Makefile**:
 
 Makefile will produce the README.md file and it contains the following
-1. Title of project.
+1. Title of project
 2. Date and time at which make was run
 3. Number of lines of code
 
-Date and time at which make was run: ate
-n\Number of lines of code:34
+Date and time at which make was run: Tue Apr 28 00:43:12 +08 2020
+
+Number of lines of code: 34
