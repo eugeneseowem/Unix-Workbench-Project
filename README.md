@@ -12,6 +12,6 @@ Makefile will produce the README.md file and it contains the following
 2. Date and time at which make was run
 3. Number of lines of code
 
-Date and time at which make was run: Tue Apr 28 00:43:12 +08 2020
+Date and time at which make was run: 28 Apr 2020 01:05
 
 Number of lines of code: 34

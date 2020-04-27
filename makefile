@@ -11,7 +11,7 @@ README.md:
 	echo "2. Date and time at which make was run" >> README.md
 	echo "3. Number of lines of code" >> README.md
 	echo -n "\nDate and time at which make was run: " >> README.md
-	date >> README.md
+	date +%d\ %b\ %Y\ %H:%M >> README.md
 	echo -n "\nNumber of lines of code: " >> README.md
 	wc -l guessinggame.sh | egrep -o "[0-9]+" >> README.md
 
